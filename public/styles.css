@@ -49,3 +49,15 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+
+.transactions {
+  text-align: left;
+  max-height: 300px;
+  overflow: auto;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.transaction-buttons {
+  margin-top: 25px;
+}
