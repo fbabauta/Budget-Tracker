@@ -32,17 +32,19 @@ to the database when the user comes back online.
 
 ![css](https://img.shields.io/badge/CSS-3-1572B6.svg?logo=css3)
 
-![javascript](https://img.shields.io/badge/JavaScript-js-F7DF1E.svg?logo=javascript)
+![javascript](https://img.shields.io/badge/-%20JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
-![nodejs](https://img.shields.io/badge/Node-JS-339933.svg?logo=node)
+![nodejs](https://img.shields.io/badge/node-js-green)
 
-![express](https://img.shields.io/badge/express-JS-black.svg?logo=express)
+![express](https://img.shields.io/badge/-express-black?logo=express)
 
-![mongoDB](https://img.shields.io/badge/Mongo-DB-47A248.svg?logo=mongo)
+![mongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=green)
 
 ![redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux)
 
 ![heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku)
+
+![react](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
 
 
 <br>
