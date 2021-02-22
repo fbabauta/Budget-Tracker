@@ -71,12 +71,13 @@ View deployed Heroku app [here](https://fb-budgettracker.herokuapp.com/).
 
 ![budget-DB](https://user-images.githubusercontent.com/70370805/108643443-7ba41c80-745f-11eb-947b-ec5cec7ca59d.jpg)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 <br>
 
 ## Questions 
-If you have any questions about the repo, please contact me:
+If you have any questions about the repo, please contact me: ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 GitHub: [fbabauta](https://github.com/fbabauta) || Email: [francine.babauta@outlook.com](francine.babauta@outlook.com)
