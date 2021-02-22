@@ -78,6 +78,7 @@ View deployed Heroku app [here](https://fb-budgettracker.herokuapp.com/).
 <br>
 
 ## Questions 
-If you have any questions about the repo, please contact me: ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+If you have any questions about the repo, please contact me: 
 
-GitHub: [fbabauta](https://github.com/fbabauta) || Email: [francine.babauta@outlook.com](francine.babauta@outlook.com)
+<a href="https://github.com/fbabauta"><img src="imgs/github.svg" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/francine-babauta"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
