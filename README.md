@@ -1,4 +1,5 @@
-# PWA - Budget-Tracker   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+# PWA - Budget-Tracker   [![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 
 
 ## Description
@@ -24,11 +25,17 @@ to the database when the user comes back online.
 
 ## Technologies
 
-![npm](https://img.shields.io/npm/v/n?color=green&style=plastic)
+![iconfinder_10-html5_104494](https://user-images.githubusercontent.com/70370805/108665270-693ed880-7489-11eb-9253-70bfe7d03ed5.png)
 
-![javascript](https://img.shields.io/npm/v/npm.svg?logo=javascript)
+![iconfinder_badge-css-3_317756](https://user-images.githubusercontent.com/70370805/108665491-e5392080-7489-11eb-9a5d-334e1c362b8f.png)
 
+![iconfinder_187_Js_logo_logos_4373213](https://user-images.githubusercontent.com/70370805/108665657-43fe9a00-748a-11eb-8609-cadce4ff428f.png)
 
+![iconfinder_nodejs-new-pantone-black_1012818](https://user-images.githubusercontent.com/70370805/108665772-9475f780-748a-11eb-9e96-df4adec40ad4.png)
+
+![expressjs-icon](https://user-images.githubusercontent.com/70370805/108666535-26cacb00-748c-11eb-9fed-667f8ee5d71e.png)
+
+![mongodb](https://user-images.githubusercontent.com/70370805/108666690-95a82400-748c-11eb-93ee-051fd1c2afa0.png)
 
 ## Installation
 To install the required dependencies, run `npm install`.
@@ -49,6 +56,11 @@ View deployed Heroku app [here](https://fb-budgettracker.herokuapp.com/).
 ![budget-DB](https://user-images.githubusercontent.com/70370805/108643443-7ba41c80-745f-11eb-947b-ec5cec7ca59d.jpg)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+
 
 
 
