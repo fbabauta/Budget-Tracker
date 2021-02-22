@@ -32,3 +32,9 @@ running somewhere else, you can edit `server.js` to reflect that.
 View deployed Heroku app [here](https://fb-budgettracker.herokuapp.com/).
 
 ![budgetDB](https://user-images.githubusercontent.com/70370805/108643023-92497400-745d-11eb-98b1-dda09bf76f9c.jpg)
+
+
+## Questions 
+If you have any questions about the repo, please contact me:
+
+GitHub: [fbabauta](https://github.com/fbabauta) || Email: [francine.babauta@outlook.com](francine.babauta@outlook.com)
