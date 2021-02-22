@@ -27,24 +27,9 @@ to the database when the user comes back online.
 <br>
 
 ## Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-![html](https://img.shields.io/badge/HTML-5-orange.svg?logo=html)
-
-![css](https://img.shields.io/badge/CSS-3-1572B6.svg?logo=css3)
-
-![javascript](https://img.shields.io/badge/-%20JavaScript-F7DF1E?logo=javascript&logoColor=white)
-
-![nodejs](https://img.shields.io/badge/node-js-green)
-
-![express](https://img.shields.io/badge/-express-black?logo=express)
-
-![mongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=green)
-
-![redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux)
-
-![heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku)
-
-![react](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
 
 
 <br>
@@ -80,5 +65,4 @@ View deployed Heroku app [here](https://fb-budgettracker.herokuapp.com/).
 ## Questions 
 If you have any questions about the repo, please contact me: 
 
-<a href="https://github.com/fbabauta"><img src="imgs/github.svg" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/francine-babauta"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+[fbabauta](https://github.com/fababauta)    ||      [francine.babauta@outlook.com](francine.babauta@outlook.com)
