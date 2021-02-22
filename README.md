@@ -31,7 +31,7 @@ running somewhere else, you can edit `server.js` to reflect that.
 ## Finished Product
 View deployed Heroku app [here](https://fb-budgettracker.herokuapp.com/).
 
-![budgetDB](https://user-images.githubusercontent.com/70370805/108643023-92497400-745d-11eb-98b1-dda09bf76f9c.jpg)
+![budget-DB](https://user-images.githubusercontent.com/70370805/108643443-7ba41c80-745f-11eb-947b-ec5cec7ca59d.jpg)
 
 
 ## Questions 
